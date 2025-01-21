@@ -12,3 +12,8 @@ Flask : If deploying the chatbot as a web application
 
 About CodeAlpha Team
 The CodeAlpha Team is dedicated to fostering innovation and skill development through practical coding projects. This chatbot is one of our initiatives to encourage learning and exploration in programming.
+
+
+---
+### Acknowledgments
+This project is supported by the **CodeAlpha Team**, who inspire innovation and learning through coding initiatives.
